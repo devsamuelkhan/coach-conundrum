@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Build files
+/build
+
+# Coverage directory
+coverage
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Temporary files
+*.tmp
+
+# User-specific files
+*.sublime-project
+*.sublime-workspace
